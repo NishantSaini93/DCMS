@@ -10,5 +10,5 @@ This repository contains four implementation of this project.
 
 3.Implementation using Web Services.
 
-4. Extending CORBA implementation by making it fault tolerant with the use of replication.
+4.Extending CORBA implementation by making it fault tolerant with the use of replication.
 
